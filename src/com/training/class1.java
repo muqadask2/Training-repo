@@ -30,7 +30,7 @@ public class class1 {
 	        }
 	        System.out.println("\n");
 	        
-	        String str = "Muqadas";
+	        String str = "Khan";
 	        System.out.print("String: ");
 	        for (int j = 0; j < str.length(); j++) 
 	        { 
